@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.21.15
+
+### Patch Changes
+
+- Bumped version to account for a patch release.
+
 ## 0.21.13
 
 ### Patch Changes
